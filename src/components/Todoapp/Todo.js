@@ -23,7 +23,7 @@ const Todo = () => {
   return (
     <>
         <div className='todo-container'>
-            <div className='header'>TODO APP</div>
+            <div className='header'>TODO APP!</div>
             <div className='add-task'>
               <AddTask addTask={addTask} />
             </div>
